@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(black,white);
+    padding: 7px;
+    margin: none;
+}
+.card-body{
+    display: flex;
+    flex-direction: row;
+    margin: none;
+    padding: 9px;
+    width: 28px;
+}
